@@ -12,4 +12,7 @@ Improve employee retention strategies through data insights.
 
 Project Learnings: Gained hands-on experience in Power BI dashboard development, including data cleaning, transformation, and DAX calculations. Learned how to design data models and create interactive visualizations that highlight key KPIs.Improved understanding of HR metrics and how analytical insights can support organizational decision-making.Enhanced storytelling skills by translating raw HR data into meaningful business insights.
 
-Screenshots: 
+Screenshots: https://github.com/surbhi-goria/HR-Analytics-Dashboard/blob/main/HR%20analysis%203.png
+
+https://github.com/surbhi-goria/HR-Analytics-Dashboard/blob/main/HR%20analysis.png
+
